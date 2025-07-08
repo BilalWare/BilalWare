@@ -1,5 +1,5 @@
 # Hi there, I'm Bilal! 👋
-🚗 Car Enthusiast | 😻 Cat Lover | ☕ Java Artisan | 🎥 3D VFX Specialist
+🚗 Car Enthusiast | 😻 Cat Lover | 🎥 3D VFX Specialist
 
 [![OS](https://img.shields.io/badge/OS-CachyOS-blue?logo=linux&logoColor=white)](https://cachyos.org/)
 [![Editor](https://img.shields.io/badge/Editor-Neovim-%2357A143?logo=neovim)](https://neovim.io/)
