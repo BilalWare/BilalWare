@@ -36,9 +36,3 @@
 - Optimizing Neovim as primary dev environment
 
 ---
-
-## 📊 GitHub Stats
-[![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/BilalWare)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/BilalWare)
-
----
