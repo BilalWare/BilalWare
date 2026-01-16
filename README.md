@@ -1,49 +1,39 @@
-# Hi there, I'm Bilal! 👋
-🚗 Car Enthusiast | 😻 Cat Lover | 🎥 3D VFX Specialist
+ # BilalWare
 
-[![OS](https://img.shields.io/badge/OS-CachyOS-blue?logo=linux&logoColor=white)](https://cachyos.org/)
-[![Editor](https://img.shields.io/badge/Editor-Neovim-%2357A143?logo=neovim)](https://neovim.io/)
-[![Java](https://img.shields.io/badge/Java-Pro-007396?logo=openjdk)](https://java.com)
+Junior Java developer focused on production-grade client/server systems and real-time integrations. I’ve worked on a JavaFX-based Minecraft launcher + Fabric client project at real scale, and I also build graphics-heavy tooling (LWJGL/OpenGL/GLSL).
 
-## 🔧 Tech Stack & Tools
+## Highlights
 
-### 🧠 Core Expertise
-![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
-![3D Effects](https://img.shields.io/badge/-3D%20VFX-9999ff?logo=blender)
-![OpenGL](https://img.shields.io/badge/-OpenGL-%235586C4?logo=opengl)
+- JavaFX Minecraft launcher experience at **150K+ downloads** and **1800+ concurrent users**
+- Real-time integration via **WebSocket** (Fastify middle-server)
+- Data & performance: **MySQL** (planned MariaDB migration), **Redis cache**
+- Rendering: **LWJGL/OpenGL**, **GLSL shaders**, modern pipelines (PBR, deferred rendering, post-processing)
 
-### 🛠️ Daily Drivers
-![Neovim](https://img.shields.io/badge/-Neovim-%2357A143?logo=neovim)
-![Blender](https://img.shields.io/badge/-Blender-%23F5792A?logo=blender)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea)
+## Featured Projects
 
-### 💼 Project Experience
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity)
-![FabricMC](https://img.shields.io/badge/-FabricMC-5700C9?logo=minecraft)
-![JavaFX](https://img.shields.io/badge/-JavaFX-%230074B1?logo=javafx)
+### AesirMC Launcher + Fabric Client (Private)
 
-### ⚙️ Technologies
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B)
-![GLSL](https://img.shields.io/badge/-GLSL-%23568FC0)
-![Lua](https://img.shields.io/badge/-Lua-%232C2D72?logo=lua)
-![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+- JavaFX launcher + Fabric client mod integration
+- Server-authoritative cosmetics (entitlement) system (e.g., hats/capes)
+- WebSocket middle-server (Fastify) + Redis cache + MySQL persistence
+- Repository: **Private (available upon request)**
 
-## 🚀 Current Project
-**Building Java 3D Game Engine**  
-🔥 Creating custom 3D game engine from scratch using LWJGL  
-`Java` `OpenGL` `GLSL` `LWGJL` `3D Math`
+### Htall — Java Game Engine + Editor (Private)
 
-## 🏆 Past Highlight
-**AesirMC Client Mod & Launcher**  
-✅ Custom Minecraft client mod (Fabric) with JavaFX launcher  
-✅ Supported 500+ concurrent users  
-✅ Multi-platform deployment (Windows/macOS/Linux)  
-`Java` `FabricMC` `JavaFX` `Cross-Platform`
+- Custom engine/editor built in Java using LWJGL/OpenGL
+- Rendering: **deferred rendering**, **PBR**, **SSAO**, **post-processing** (bloom/tonemap)
+- Architecture: **ECS**, **Bullet Physics** integration
+- Shaders: GLSL (vertex/fragment)
+- Repository: **Private (available upon request)**
 
-## 💻 Workspace Setup
-```text
-OS: CachyOS (Arch-based)
-Editor: Neovim + Custom Config
-WM: Hyprland
-Theme: Catppuccin Mocha
+## Tech
+
+- **Languages:** Java, C#
+- **Client/Game:** JavaFX, Fabric, LWJGL, OpenGL, GLSL
+- **Backend/Data:** WebSocket, Fastify (Node.js), SQL, MySQL, Redis
+- **Tools:** Git, Gradle/Maven, Linux, Windows
+
+## Contact
+
+- **GitHub:** https://github.com/BilalWare
+- **Email:** bilalware35@gmail.com
